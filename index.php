@@ -10,10 +10,26 @@
 </head>
 <body>
     <div class="container">
-        <div class="row flex-column align-items-center">
-            <div class="col-4">
+        <div class="row flex-column align-items-center py-5">
+            <div class="col-4 my-4">
                 <h1>Todo List</h1>
-            </div>   
+            </div>
+            <div class="col-4 list">
+                <ul>
+                    <li class="d-flex justify-content-between  px-3 py-2">
+                        <span>Task to do</span>
+                        <i class="fa-solid fa-trash-can"></i>                        
+                    </li>
+                    <li class="d-flex justify-content-between px-3 py-2">
+                        <span>Task to do</span>
+                        <i class="fa-solid fa-trash-can"></i>                        
+                    </li>
+                    <li class="d-flex justify-content-between px-3 py-2">
+                        <span>Task to do</span>
+                        <i class="fa-solid fa-trash-can"></i>                        
+                    </li>
+                </ul>
+            </div>      
         </div>
 
     </div>
