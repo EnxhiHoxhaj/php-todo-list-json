@@ -1,0 +1,14 @@
+body {
+    background-color: #001632;
+
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(255, 255, 255, 0.3);
+    text-align: center;
+}
+
+.col-4 {
+    border: solid white;
+}
