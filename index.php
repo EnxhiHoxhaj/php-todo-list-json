@@ -14,7 +14,7 @@
             <div class="col-4 my-4">
                 <h1>Todo List</h1>
             </div>
-            <div class="col-4 list">
+            <div class="col-4 list my-2">
                 <ul>
                     <li class="d-flex justify-content-between  px-3 py-2">
                         <span>Task to do</span>
@@ -29,7 +29,11 @@
                         <i class="fa-solid fa-trash-can"></i>                        
                     </li>
                 </ul>
-            </div>      
+            </div>
+            <div class="col-4 d-flex justify-content-between">
+                    <input type="text" placeholder="Add task . . .">
+                    <button>Inserisci</button>
+            </div>   
         </div>
 
     </div>
