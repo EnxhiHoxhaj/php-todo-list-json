@@ -1,39 +1,9 @@
-{
-    "tasks": [
-        {
-            "title": "Revisionare il codice",
-            "description": "Controllare il codice sorgente per possibili bug e miglioramenti prima della revisione finale.",
-            "done": false
-        },
-        {
-            "title": "Scrivere unit tests",
-            "description": "Creare unit tests per garantire la copertura del codice e la funzionalità dei moduli.",
-            "done": false
-        },
-        {
-            "title": "Documentazione del progetto",
-            "description": "Aggiornare la documentazione del progetto con le ultime modifiche e funzionalità aggiunte.",
-            "done": false
-        },
-        {
-            "title": "Incontro con il team",
-            "description": "Partecipare all'incontro settimanale del team per discutere progressi e ostacoli.",
-            "done": false
-        },
-        {
-            "title": "Debugging",
-            "description": "Individuare e risolvere anomalie e bug nel codice esistente.",
-            "done": false
-        },
-        {
-            "title": "Aggiornare le librerie",
-            "description": "Aggiornare le librerie utilizzate nel progetto per garantire la compatibilità e la sicurezza.",
-            "done": false
-        },
-        {
-            "title": "Sviluppare nuova funzionalità",
-            "description": "Implementare una nuova funzionalità richiesta secondo le specifiche del cliente.",
-            "done": false
-        }
-    ]
-}
+[
+    "Revisionare il codice",
+    "Scrivere unit tests",
+    "Documentazione del progetto",
+    "Incontro con il team",
+    "Debugging",
+    "Aggiornare le librerie",
+    "Sviluppare nuova funzionalità"
+]

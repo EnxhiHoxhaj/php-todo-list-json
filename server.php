@@ -6,4 +6,7 @@
     $lista= json_decode($stringa);
     var_dump($lista);
 
+    header('Content-Type: application/json');
+    echo json_encode($lista);
+
 ?>
